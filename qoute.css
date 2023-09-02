@@ -1,0 +1,32 @@
+body{
+    background-color:lavender;
+}
+
+div {
+    text-align: center;
+}
+
+h1 {
+    font-size: 80px;
+    font-family: Impact;
+    color:darkolivegreen;
+}
+
+button {
+    width: 250px;
+    height: 80px;
+    background-color:rgb(122, 165, 122);
+    color: white;
+    font-size: 20px;
+    border-radius: 15px;
+    border:1px solid transparent;
+}
+
+p{
+    font-size: 35px;
+    color:darkgreen;
+}
+
+button:hover{
+    background-color:darksalmon;
+}
